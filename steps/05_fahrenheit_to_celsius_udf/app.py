@@ -9,7 +9,7 @@
 # SNOWFLAKE ADVANTAGE: Python UDFs (with third-party packages)
 
 
-# SNOWFLAKE ADVANTAGE: SnowCLI (PuPr) MM
+# SNOWFLAKE ADVANTAGE: SnowCLI (PuPr) MMMMM
 
 import sys
 
